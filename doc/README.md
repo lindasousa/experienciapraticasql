@@ -48,7 +48,8 @@ Para executar os scripts, siga os passos abaixo em um ambiente de banco de dados
 
 
 4. Scripts SQL Solicitados
-
+   
+```sql
 Script SQL com comandos de INSERT para povoar as tabelas principais:
 
 -- Inserção de Clientes
@@ -204,6 +205,7 @@ WHERE id_produto = 5;
 -- Segundo, remove o registro de Produto
 DELETE FROM Produto
 WHERE id_produto = 5;
+
 
 
 

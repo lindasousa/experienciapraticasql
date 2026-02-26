@@ -3,7 +3,7 @@
 Este repositório contém os scripts SQL criados a partir de um modelo lógico de banco de dados para um sistema de E-commerce de maquiagem. O objetivo é demonstrar a manipulação de dados através de consultas e comandos. Contém Script SQL com comandos de INSERT para povoar as tabelas principais, Script SQL com duas a cinco consultas usando SELECT (com WHERE, ORDER BY, LIMIT, JOIN etc.) e Script com ao menos três comandos de UPDATE e três de DELETE com condições.
 
 Modelo Lógico
-O projeto foi baseado no modelo lógico de E-commerce de maquiagem.
+O projeto foi baseado no modelo lógico de E-commerce.
 
 • Cliente: id_cliente (PK), nome, telefone, data_nascimento.
 
